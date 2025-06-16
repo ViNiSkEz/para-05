@@ -1,2 +1,2 @@
 # para-05
-posnomas
+pues solo cree un par de archivos y los subi a github
